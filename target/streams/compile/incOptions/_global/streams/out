@@ -1,0 +1,5 @@
+[debug] Created transactional ClassFileManager with tempDir = D:\iti\Scala_rule_engine\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = D:\iti\Scala_rule_engine\target\scala-2.13\classes.bak
+[debug] Removing the temporary directory used for backing up class files: D:\iti\Scala_rule_engine\target\scala-2.13\classes.bak

@@ -1,0 +1,560 @@
+2025-05-17T19:58:58.7708005 INFO Starting transaction processing application
+2025-05-17T19:58:58.7746673 INFO Starting transaction processing
+2025-05-17T19:58:59.6603174 INFO Database connection established
+2025-05-17T19:58:59.6623348 INFO Reading transactions from D:\iti\Scala_rule_engine\src\main\scala\data\TRX1000.csv
+2025-05-17T19:58:59.6925342 INFO Read 1000 transactions
+2025-05-17T19:58:59.8257844 INFO Visa card discount for Wine - White Pinot Grigio: 5%
+2025-05-17T19:58:59.8333121 INFO Visa card discount for External Supplier: 5%
+2025-05-17T19:58:59.8333121 INFO Visa card discount for Beef - Inside Round: 5%
+2025-05-17T19:58:59.8348217 INFO Visa card discount for Bread - Calabrese Baguette: 5%
+2025-05-17T19:58:59.8348217 INFO Visa card discount for Zucchini - Mini Green: 5%
+2025-05-17T19:58:59.8348217 INFO Visa card discount for Eggs - Extra Large: 5%
+2025-05-17T19:58:59.8358316 INFO Visa card discount for Pork - Liver: 5%
+2025-05-17T19:58:59.8368355 INFO Visa card discount for Wine - Prosecco Valdobienne: 5%
+2025-05-17T19:58:59.8368355 INFO Visa card discount for Lettuce - Boston Bib - Organic: 5%
+2025-05-17T19:58:59.8368355 INFO Visa card discount for Wine - Marlbourough Sauv Blanc: 5%
+2025-05-17T19:58:59.8378351 INFO Visa card discount for Sauce - Oyster: 5%
+2025-05-17T19:58:59.8378351 INFO Visa card discount for Barley - Pearl: 5%
+2025-05-17T19:58:59.8388358 INFO Visa card discount for Cheese Cloth No 60: 5%
+2025-05-17T19:58:59.8388358 INFO Visa card discount for Kolrabi: 5%
+2025-05-17T19:58:59.8388358 INFO Visa card discount for Coffee - Espresso: 5%
+2025-05-17T19:58:59.8388358 INFO Visa card discount for Beef - Kindney Whole: 5%
+2025-05-17T19:58:59.8388358 INFO Visa card discount for Honey - Comb: 5%
+2025-05-17T19:58:59.8404638 INFO Visa card discount for Syrup - Monin - Blue Curacao: 5%
+2025-05-17T19:58:59.8404638 INFO Visa card discount for Wine - Vidal Icewine Magnotta: 5%
+2025-05-17T19:58:59.8413664 INFO Visa card discount for Island Oasis - Peach Daiquiri: 5%
+2025-05-17T19:58:59.8413664 INFO Visa card discount for Contreau: 5%
+2025-05-17T19:58:59.8413664 INFO Visa card discount for Cheese - Taleggio D.o.p.: 5%
+2025-05-17T19:58:59.8423615 INFO Visa card discount for Pastry - Cheese Baked Scones: 5%
+2025-05-17T19:58:59.8423615 INFO Visa card discount for Veal - Bones: 5%
+2025-05-17T19:58:59.843361 INFO Visa card discount for Wine - Saint Emilion Calvet: 5%
+2025-05-17T19:58:59.843361 INFO Visa card discount for Coffee - Ristretto Coffee Capsule: 5%
+2025-05-17T19:58:59.843361 INFO Visa card discount for Beef - Tenderlion Center Cut: 5%
+2025-05-17T19:58:59.843361 INFO Visa card discount for Pails With Lids: 5%
+2025-05-17T19:58:59.843361 INFO Visa card discount for Wine - Cousino Macul Antiguas: 5%
+2025-05-17T19:58:59.8449452 INFO Visa card discount for Table Cloth 91x91 Colour: 5%
+2025-05-17T19:58:59.8449452 INFO Visa card discount for Chocolate - Mi - Amere Semi: 5%
+2025-05-17T19:58:59.8458849 INFO Visa card discount for Oysters - Smoked: 5%
+2025-05-17T19:58:59.8458849 INFO Visa card discount for Pastry - Baked Cinnamon Stick: 5%
+2025-05-17T19:58:59.8458849 INFO Visa card discount for Bread Foccacia Whole: 5%
+2025-05-17T19:58:59.8468861 INFO Visa card discount for Tuna - Loin: 5%
+2025-05-17T19:58:59.8468861 INFO Visa card discount for Corn Syrup: 5%
+2025-05-17T19:58:59.8468861 INFO Visa card discount for Wine - Bouchard La Vignee Pinot: 5%
+2025-05-17T19:58:59.8478825 INFO Visa card discount for Cocoa Butter: 5%
+2025-05-17T19:58:59.8488815 INFO Visa card discount for Sugar - Brown: 5%
+2025-05-17T19:58:59.8488815 INFO Visa card discount for Bread Base - Gold Formel: 5%
+2025-05-17T19:58:59.8488815 INFO Visa card discount for Wood Chips - Regular: 5%
+2025-05-17T19:58:59.8498851 INFO Visa card discount for Pails With Lids: 5%
+2025-05-17T19:58:59.8498851 INFO Visa card discount for Strawberries: 5%
+2025-05-17T19:58:59.8498851 INFO Visa card discount for Ice Cream - Chocolate: 5%
+2025-05-17T19:58:59.8509893 INFO Visa card discount for Tarts Assorted: 5%
+2025-05-17T19:58:59.8509893 INFO Visa card discount for Lamb - Bones: 5%
+2025-05-17T19:58:59.8519932 INFO Visa card discount for Soup - Campbells Beef Barley: 5%
+2025-05-17T19:58:59.852992 INFO Visa card discount for Wine - Red Colio Cabernet: 5%
+2025-05-17T19:58:59.852992 INFO Visa card discount for Honey - Lavender: 5%
+2025-05-17T19:58:59.8539944 INFO Visa card discount for Cake - Bande Of Fruit: 5%
+2025-05-17T19:58:59.8539944 INFO Visa card discount for Veal - Insides Provini: 5%
+2025-05-17T19:58:59.8539944 INFO Visa card discount for Cheese - Taleggio D.o.p.: 5%
+2025-05-17T19:58:59.8549907 INFO Visa card discount for Nut - Walnut Chopped: 5%
+2025-05-17T19:58:59.8549907 INFO Visa card discount for Soup - Base Broth Beef: 5%
+2025-05-17T19:58:59.8564499 INFO Visa card discount for Pasta - Lasagna Dry: 5%
+2025-05-17T19:58:59.8564499 INFO Visa card discount for Ginsing - Fresh: 5%
+2025-05-17T19:58:59.8564499 INFO Visa card discount for Capon - Breast Wing On: 5%
+2025-05-17T19:58:59.8574491 INFO Visa card discount for Tray - 16in Rnd Blk: 5%
+2025-05-17T19:58:59.8574491 INFO Visa card discount for Coffee - Frthy Coffee Crisp: 5%
+2025-05-17T19:58:59.8574491 INFO Visa card discount for Schnappes Peppermint - Walker: 5%
+2025-05-17T19:58:59.8574491 INFO Visa card discount for Coffee Cup 12oz 5342cd: 5%
+2025-05-17T19:58:59.8584509 INFO Visa card discount for Tea - Orange Pekoe: 5%
+2025-05-17T19:58:59.8584509 INFO Visa card discount for Muffin Mix - Raisin Bran: 5%
+2025-05-17T19:58:59.8584509 INFO Visa card discount for Beef - Ground Medium: 5%
+2025-05-17T19:58:59.8584509 INFO Visa card discount for Tomatoes - Grape: 5%
+2025-05-17T19:58:59.8584509 INFO Visa card discount for Wine - Chenin Blanc K.w.v.: 5%
+2025-05-17T19:58:59.8599624 INFO Visa card discount for Apples - Spartan: 5%
+2025-05-17T19:58:59.8599624 INFO Visa card discount for Snails - Large Canned: 5%
+2025-05-17T19:58:59.8599624 INFO Visa card discount for Eggplant - Baby: 5%
+2025-05-17T19:58:59.8599624 INFO Visa card discount for Wine - Rioja Campo Viejo: 5%
+2025-05-17T19:58:59.8599624 INFO Visa card discount for Wine - Rosso Toscano Igt: 5%
+2025-05-17T19:58:59.8609743 INFO Visa card discount for Ecolab Crystal Fusion: 5%
+2025-05-17T19:58:59.8609743 INFO Visa card discount for Sauce - White Mix: 5%
+2025-05-17T19:58:59.8609743 INFO Visa card discount for Lobak: 5%
+2025-05-17T19:58:59.8609743 INFO Visa card discount for Pasta - Shells Medium Dry: 5%
+2025-05-17T19:58:59.861976 INFO Visa card discount for Tomatoes Tear Drop Yellow: 5%
+2025-05-17T19:58:59.861976 INFO Visa card discount for Dried Cranberries: 5%
+2025-05-17T19:58:59.861976 INFO Visa card discount for Bagels Poppyseed: 5%
+2025-05-17T19:58:59.861976 INFO Visa card discount for Mushroom - Crimini: 5%
+2025-05-17T19:58:59.8629751 INFO Visa card discount for Spice - Peppercorn Melange: 5%
+2025-05-17T19:58:59.8629751 INFO Visa card discount for Fruit Salad Deluxe: 5%
+2025-05-17T19:58:59.8629751 INFO Visa card discount for Pur Value: 5%
+2025-05-17T19:58:59.8629751 INFO Visa card discount for Remy Red Berry Infusion: 5%
+2025-05-17T19:58:59.8629751 INFO Visa card discount for Chestnuts - Wholecanned: 5%
+2025-05-17T19:58:59.8639758 INFO Visa card discount for Oil - Cooking Spray: 5%
+2025-05-17T19:58:59.8639758 INFO Visa card discount for Pepper - Julienne Frozen: 5%
+2025-05-17T19:58:59.8639758 INFO Visa card discount for Absolut Citron: 5%
+2025-05-17T19:58:59.8649757 INFO Visa card discount for Yogurt - Assorted Pack: 5%
+2025-05-17T19:58:59.8649757 INFO Visa card discount for Barley - Pearl: 5%
+2025-05-17T19:58:59.8654859 INFO Visa card discount for Lemons: 5%
+2025-05-17T19:58:59.8654859 INFO Visa card discount for Table Cloth 72x144 White: 5%
+2025-05-17T19:58:59.8654859 INFO Visa card discount for Sword Pick Asst: 5%
+2025-05-17T19:58:59.8654859 INFO Visa card discount for Wine - Vovray Sec Domaine Huet: 5%
+2025-05-17T19:58:59.8664964 INFO Visa card discount for Watercress: 5%
+2025-05-17T19:58:59.8664964 INFO Visa card discount for Pears - Bosc: 5%
+2025-05-17T19:58:59.867496 INFO Visa card discount for Buttons: 5%
+2025-05-17T19:58:59.867496 INFO Visa card discount for The Pop Shoppe - Root Beer: 5%
+2025-05-17T19:58:59.867496 INFO Visa card discount for Wasabi Powder: 5%
+2025-05-17T19:58:59.867496 INFO Visa card discount for Milk 2% 500 Ml: 5%
+2025-05-17T19:58:59.867496 INFO Visa card discount for Flavouring - Orange: 5%
+2025-05-17T19:58:59.8684973 INFO Visa card discount for Juice - Orange Concentrate: 5%
+2025-05-17T19:58:59.8684973 INFO Visa card discount for Bonito Flakes - Toku Katsuo: 5%
+2025-05-17T19:58:59.8684973 INFO Visa card discount for Bread - Bistro White: 5%
+2025-05-17T19:58:59.8684973 INFO Visa card discount for Bread - English Muffin: 5%
+2025-05-17T19:58:59.8684973 INFO Visa card discount for Cheese - Camembert: 5%
+2025-05-17T19:58:59.8684973 INFO Visa card discount for Container - Hngd Cll Blk 7x7x3: 5%
+2025-05-17T19:58:59.8684973 INFO Visa card discount for Tomatoes - Vine Ripe Red: 5%
+2025-05-17T19:58:59.8700093 INFO Visa card discount for Durian Fruit: 5%
+2025-05-17T19:58:59.8700093 INFO Visa card discount for Container - Clear 32 Oz: 5%
+2025-05-17T19:58:59.8700093 INFO Visa card discount for Soup - Campbells - Chicken Noodle: 5%
+2025-05-17T19:58:59.8710197 INFO Visa card discount for Wine - Fume Blanc Fetzer: 5%
+2025-05-17T19:58:59.8710197 INFO Visa card discount for Beef - Salted: 5%
+2025-05-17T19:58:59.8710197 INFO Visa card discount for Liners - Baking Cups: 5%
+2025-05-17T19:58:59.8720218 INFO Visa card discount for Cookie - Oatmeal: 5%
+2025-05-17T19:58:59.8720218 INFO Visa card discount for Pastry - Banana Tea Loaf: 5%
+2025-05-17T19:58:59.873021 INFO Visa card discount for Broom And Brush Rack Black: 5%
+2025-05-17T19:58:59.873021 INFO Visa card discount for Pie Shell - 5: 5%
+2025-05-17T19:58:59.873021 INFO Visa card discount for Wine - White Colubia Cresh: 5%
+2025-05-17T19:58:59.8745316 INFO Visa card discount for Celery Root: 5%
+2025-05-17T19:58:59.8745316 INFO Visa card discount for Longos - Greek Salad: 5%
+2025-05-17T19:58:59.8745316 INFO Visa card discount for Calvados - Boulard: 5%
+2025-05-17T19:58:59.8755435 INFO Visa card discount for Island Oasis - Ice Cream Mix: 5%
+2025-05-17T19:58:59.8755435 INFO Visa card discount for Cookie - Oreo 100x2: 5%
+2025-05-17T19:58:59.8765436 INFO Visa card discount for The Pop Shoppe Pinapple: 5%
+2025-05-17T19:58:59.8765436 INFO Visa card discount for Tarragon - Primerba Paste: 5%
+2025-05-17T19:58:59.8765436 INFO Visa card discount for Mussels - Cultivated: 5%
+2025-05-17T19:58:59.8765436 INFO Visa card discount for Beef - Top Butt Aaa: 5%
+2025-05-17T19:58:59.8765436 INFO Visa card discount for Beer - Sleemans Honey Brown: 5%
+2025-05-17T19:58:59.8775469 INFO Visa card discount for Cherries - Fresh: 5%
+2025-05-17T19:58:59.8775469 INFO Visa card discount for Appetizer - Cheese Bites: 5%
+2025-05-17T19:58:59.8785445 INFO Visa card discount for Wine - Barossa Valley Estate: 5%
+2025-05-17T19:58:59.8785445 INFO Visa card discount for External Supplier: 5%
+2025-05-17T19:58:59.8785445 INFO Visa card discount for The Pop Shoppe Pinapple: 5%
+2025-05-17T19:58:59.8785445 INFO Visa card discount for Wine - Red Gallo Merlot: 5%
+2025-05-17T19:58:59.8785445 INFO Visa card discount for Fudge - Chocolate Fudge: 5%
+2025-05-17T19:58:59.8800541 INFO Visa card discount for Chef Hat 25cm: 5%
+2025-05-17T19:58:59.8800541 INFO Visa card discount for Bread - Granary Small Pull: 5%
+2025-05-17T19:58:59.8800541 INFO Visa card discount for Bananas: 5%
+2025-05-17T19:58:59.8810659 INFO Visa card discount for Wine - Taylors Reserve: 5%
+2025-05-17T19:58:59.8810659 INFO Visa card discount for Nori Sea Weed - Gold Label: 5%
+2025-05-17T19:58:59.8810659 INFO Visa card discount for Coffee - Frthy Coffee Crisp: 5%
+2025-05-17T19:58:59.882068 INFO Visa card discount for Marjoram - Dried Rubbed: 5%
+2025-05-17T19:58:59.882068 INFO Visa card discount for Pork - Bacon Double Smoked: 5%
+2025-05-17T19:58:59.882068 INFO Visa card discount for Beer - Upper Canada Light: 5%
+2025-05-17T19:58:59.882068 INFO Visa card discount for Napkin - Beverge White 2 - Ply: 5%
+2025-05-17T19:58:59.882068 INFO Visa card discount for Wine - Vineland Estate Semi - Dry: 5%
+2025-05-17T19:58:59.8830658 INFO Visa card discount for Kellogs Raisan Bran Bars: 5%
+2025-05-17T19:58:59.8830658 INFO Visa card discount for Wine - Rubyport: 5%
+2025-05-17T19:58:59.8830658 INFO Visa card discount for Pumpkin: 5%
+2025-05-17T19:58:59.8830658 INFO Visa card discount for Brandy Cherry - Mcguinness: 5%
+2025-05-17T19:58:59.8830658 INFO Visa card discount for Mousse - Banana Chocolate: 5%
+2025-05-17T19:58:59.8830658 INFO Visa card discount for Flour - Chickpea: 5%
+2025-05-17T19:58:59.8830658 INFO Visa card discount for Clams - Bay: 5%
+2025-05-17T19:58:59.884627 INFO Visa card discount for Jameson Irish Whiskey: 5%
+2025-05-17T19:58:59.884627 INFO Visa card discount for Coconut - Creamed Pure: 5%
+2025-05-17T19:58:59.884627 INFO Visa card discount for Pepper - Chillies Crushed: 5%
+2025-05-17T19:58:59.884627 INFO Visa card discount for Petit Baguette: 5%
+2025-05-17T19:58:59.884627 INFO Visa card discount for Wine - Carmenere Casillero Del: 5%
+2025-05-17T19:58:59.8855842 INFO Visa card discount for Sobe - Green Tea: 5%
+2025-05-17T19:58:59.8855842 INFO Visa card discount for Wine - Sicilia Igt Nero Avola: 5%
+2025-05-17T19:58:59.8855842 INFO Visa card discount for Blue Curacao - Marie Brizard: 5%
+2025-05-17T19:58:59.8865893 INFO Visa card discount for Pail - 15l White With Handle: 5%
+2025-05-17T19:58:59.8865893 INFO Visa card discount for Table Cloth - 53x69 Colour: 5%
+2025-05-17T19:58:59.8865893 INFO Visa card discount for Ostrich - Prime Cut: 5%
+2025-05-17T19:58:59.8865893 INFO Visa card discount for Fish - Artic Char Cold Smoked: 5%
+2025-05-17T19:58:59.8865893 INFO Visa card discount for Oil - Canola: 5%
+2025-05-17T19:58:59.8865893 INFO Visa card discount for Bread - English Muffin: 5%
+2025-05-17T19:58:59.8875873 INFO Visa card discount for Table Cloth 120 Round White: 5%
+2025-05-17T19:58:59.8875873 INFO Visa card discount for Pork Ham Prager: 5%
+2025-05-17T19:58:59.8875873 INFO Visa card discount for Dc - Frozen Momji: 5%
+2025-05-17T19:58:59.8875873 INFO Visa card discount for Pepper - Chillies Crushed: 5%
+2025-05-17T19:58:59.8875873 INFO Visa card discount for Chef Hat 20cm: 5%
+2025-05-17T19:58:59.8885849 INFO Visa card discount for Oil - Olive Extra Virgin: 5%
+2025-05-17T19:58:59.8885849 INFO Visa card discount for Basil - Thai: 5%
+2025-05-17T19:58:59.8885849 INFO Visa card discount for Gingerale - Schweppes 355 Ml: 5%
+2025-05-17T19:58:59.8885849 INFO Visa card discount for Truffle - Whole Black Peeled: 5%
+2025-05-17T19:58:59.8885849 INFO Visa card discount for Horseradish Root: 5%
+2025-05-17T19:58:59.8885849 INFO Visa card discount for Bamboo Shoots - Sliced: 5%
+2025-05-17T19:58:59.8885849 INFO Visa card discount for Sauce - Oyster: 5%
+2025-05-17T19:58:59.8900945 INFO Visa card discount for Wine - Cotes Du Rhone Parallele: 5%
+2025-05-17T19:58:59.8900945 INFO Visa card discount for Mop Head - Cotton 24 Oz: 5%
+2025-05-17T19:58:59.8900945 INFO Visa card discount for Eggwhite Frozen: 5%
+2025-05-17T19:58:59.8900945 INFO Visa card discount for Truffle Cups - Brown: 5%
+2025-05-17T19:58:59.8900945 INFO Visa card discount for Muskox - French Rack: 5%
+2025-05-17T19:58:59.8900945 INFO Visa card discount for Burger Veggie: 5%
+2025-05-17T19:58:59.8900945 INFO Visa card discount for Food Colouring - Orange: 5%
+2025-05-17T19:58:59.8911094 INFO Visa card discount for Truffle Cups - White Paper: 5%
+2025-05-17T19:58:59.8911094 INFO Visa card discount for Ostrich - Prime Cut: 5%
+2025-05-17T19:58:59.8911094 INFO Visa card discount for Sole - Iqf: 5%
+2025-05-17T19:58:59.8911094 INFO Visa card discount for Bread - Roll Whole Wheat: 5%
+2025-05-17T19:58:59.8911094 INFO Visa card discount for Island Oasis - Peach Daiquiri: 5%
+2025-05-17T19:58:59.8921099 INFO Visa card discount for Cheese - Gouda: 5%
+2025-05-17T19:58:59.8921099 INFO Visa card discount for Food Colouring - Green: 5%
+2025-05-17T19:58:59.8921099 INFO Visa card discount for Bread - White Sliced: 5%
+2025-05-17T19:58:59.8921099 INFO Visa card discount for Parsley - Fresh: 5%
+2025-05-17T19:58:59.8921099 INFO Visa card discount for Muffin Hinge 117n: 5%
+2025-05-17T19:58:59.8921099 INFO Visa card discount for Hipnotiq Liquor: 5%
+2025-05-17T19:58:59.8931102 INFO Visa card discount for Jameson - Irish Whiskey: 5%
+2025-05-17T19:58:59.8931102 INFO Visa card discount for Soup - Knorr Ministrone: 5%
+2025-05-17T19:58:59.8931102 INFO Visa card discount for Soup Campbells Split Pea And Ham: 5%
+2025-05-17T19:58:59.8931102 INFO Visa card discount for Beef - Ox Tongue: 5%
+2025-05-17T19:58:59.8931102 INFO Visa card discount for Sesame Seed: 5%
+2025-05-17T19:58:59.8931102 INFO Visa card discount for Wine - Soave Folonari: 5%
+2025-05-17T19:58:59.8931102 INFO Visa card discount for Pork - Ham Hocks - Smoked: 5%
+2025-05-17T19:58:59.8946191 INFO Visa card discount for Bread - Roll Calabrese: 5%
+2025-05-17T19:58:59.8946191 INFO Visa card discount for Pork - Smoked Back Bacon: 5%
+2025-05-17T19:58:59.8946191 INFO Visa card discount for Compound - Raspberry: 5%
+2025-05-17T19:58:59.8946191 INFO Visa card discount for Mousse - Banana Chocolate: 5%
+2025-05-17T19:58:59.8956338 INFO Visa card discount for Flour - Chickpea: 5%
+2025-05-17T19:58:59.8956338 INFO Visa card discount for Tart Shells - Savory 3: 5%
+2025-05-17T19:58:59.8956338 INFO Visa card discount for Soup - Campbells Beef Barley: 5%
+2025-05-17T19:58:59.8966334 INFO Visa card discount for Cheese - Brick With Pepper: 5%
+2025-05-17T19:58:59.8966334 INFO Visa card discount for Wine - Prosecco Valdobienne: 5%
+2025-05-17T19:58:59.8966334 INFO Visa card discount for Wonton Wrappers: 5%
+2025-05-17T19:58:59.8966334 INFO Visa card discount for Oranges: 5%
+2025-05-17T19:58:59.8966334 INFO Visa card discount for Doilies - 7 Paper: 5%
+2025-05-17T19:58:59.8966334 INFO Visa card discount for Sauce - Vodka Blush: 5%
+2025-05-17T19:58:59.8976346 INFO Visa card discount for Tray - 16in Rnd Blk: 5%
+2025-05-17T19:58:59.8976346 INFO Visa card discount for Shallots: 5%
+2025-05-17T19:58:59.8976346 INFO Visa card discount for Lobak: 5%
+2025-05-17T19:58:59.8976346 INFO Visa card discount for Bread - Sticks Thin Plain: 5%
+2025-05-17T19:58:59.8976346 INFO Visa card discount for Assorted Desserts: 5%
+2025-05-17T19:58:59.8976346 INFO Visa card discount for Shrimp - 31/40: 5%
+2025-05-17T19:58:59.8976346 INFO Visa card discount for Cookie Dough - Oatmeal Rasin: 5%
+2025-05-17T19:58:59.8976346 INFO Visa card discount for Cheese - Swiss: 5%
+2025-05-17T19:58:59.8991496 INFO Visa card discount for Tobasco Sauce: 5%
+2025-05-17T19:58:59.8991496 INFO Visa card discount for Vegetable - Base: 5%
+2025-05-17T19:58:59.8991496 INFO Visa card discount for Macaroons - Two Bite Choc: 5%
+2025-05-17T19:58:59.8991496 INFO Visa card discount for Wine - Chardonnay Mondavi: 5%
+2025-05-17T19:58:59.8991496 INFO Visa card discount for Kale - Red: 5%
+2025-05-17T19:58:59.8991496 INFO Visa card discount for Chevere Logs: 5%
+2025-05-17T19:58:59.8991496 INFO Visa card discount for Fondant - Icing: 5%
+2025-05-17T19:58:59.9001625 INFO Visa card discount for Soup - Campbells Asian Noodle: 5%
+2025-05-17T19:58:59.9001625 INFO Visa card discount for Oil - Shortening - All - Purpose: 5%
+2025-05-17T19:58:59.9006809 INFO Visa card discount for Hagen Daza - Dk Choocolate: 5%
+2025-05-17T19:58:59.9006809 INFO Visa card discount for Yoplait - Strawbrasp Peac: 5%
+2025-05-17T19:58:59.9006809 INFO Visa card discount for Cream - 35%: 5%
+2025-05-17T19:58:59.9006809 INFO Visa card discount for Lemon Balm - Fresh: 5%
+2025-05-17T19:58:59.9006809 INFO Visa card discount for Cheese - Grie Des Champ: 5%
+2025-05-17T19:58:59.9006809 INFO Visa card discount for Onions - Cippolini: 5%
+2025-05-17T19:58:59.9006809 INFO Visa card discount for Beef - Tender Tips: 5%
+2025-05-17T19:58:59.9006809 INFO Visa card discount for Soup - Campbells Beef Stew: 5%
+2025-05-17T19:58:59.9016905 INFO Visa card discount for Ice Cream - Life Savers: 5%
+2025-05-17T19:58:59.9016905 INFO Visa card discount for Cheese - Manchego Spanish: 5%
+2025-05-17T19:58:59.9016905 INFO Visa card discount for Potatoes - Mini Red: 5%
+2025-05-17T19:58:59.9016905 INFO Visa card discount for Jam - Blackberry 20 Ml Jar: 5%
+2025-05-17T19:58:59.9016905 INFO Visa card discount for Stock - Fish: 5%
+2025-05-17T19:58:59.9026954 INFO Visa card discount for Poppy Seed: 5%
+2025-05-17T19:58:59.9026954 INFO Visa card discount for Fond - Neutral: 5%
+2025-05-17T19:58:59.9026954 INFO Visa card discount for Artichoke - Fresh: 5%
+2025-05-17T19:58:59.9026954 INFO Visa card discount for Soup - Campbells Bean Medley: 5%
+2025-05-17T19:58:59.9026954 INFO Visa card discount for Corn - On The Cob: 5%
+2025-05-17T19:58:59.9026954 INFO Visa card discount for Lamb Rack Frenched Australian: 5%
+2025-05-17T19:58:59.9026954 INFO Visa card discount for Pastry - Baked Cinnamon Stick: 5%
+2025-05-17T19:58:59.9037043 INFO Visa card discount for Tortillas - Flour 12: 5%
+2025-05-17T19:58:59.9037043 INFO Visa card discount for Juice - Ocean Spray Cranberry: 5%
+2025-05-17T19:58:59.9037043 INFO Visa card discount for Pancetta: 5%
+2025-05-17T19:58:59.9046963 INFO Visa card discount for Ranchero - Primerba Paste: 5%
+2025-05-17T19:58:59.9046963 INFO Visa card discount for Wine - Charddonnay Errazuriz: 5%
+2025-05-17T19:58:59.9046963 INFO Visa card discount for Potatoes - Peeled: 5%
+2025-05-17T19:58:59.9046963 INFO Visa card discount for Onions - Red Pearl: 5%
+2025-05-17T19:58:59.9046963 INFO Visa card discount for Pepper - Black Crushed: 5%
+2025-05-17T19:58:59.9046963 INFO Visa card discount for Fond - Neutral: 5%
+2025-05-17T19:58:59.9046963 INFO Visa card discount for Beer - Paulaner Hefeweisse: 5%
+2025-05-17T19:58:59.9046963 INFO Visa card discount for Sage Derby: 5%
+2025-05-17T19:58:59.9057951 INFO Visa card discount for Pasta - Fusili Tri - Coloured: 5%
+2025-05-17T19:58:59.9057951 INFO Visa card discount for Lady Fingers: 5%
+2025-05-17T19:58:59.9057951 INFO Visa card discount for Cardamon Ground: 5%
+2025-05-17T19:58:59.9067884 INFO Visa card discount for Ice Cream - Life Savers: 5%
+2025-05-17T19:58:59.9067884 INFO Visa card discount for Five Alive Citrus: 5%
+2025-05-17T19:58:59.9067884 INFO Visa card discount for Bagel - 12 Grain Preslice: 5%
+2025-05-17T19:58:59.9077969 INFO Visa card discount for Chocolate - Milk Callets: 5%
+2025-05-17T19:58:59.9077969 INFO Visa card discount for Soup - French Onion Dry: 5%
+2025-05-17T19:58:59.9077969 INFO Visa card discount for Glycerine: 5%
+2025-05-17T19:58:59.9087883 INFO Visa card discount for Milk - Skim: 5%
+2025-05-17T19:58:59.9087883 INFO Visa card discount for Beer - Steamwhistle: 5%
+2025-05-17T19:58:59.9087883 INFO Visa card discount for Chinese Foods - Chicken Wing: 5%
+2025-05-17T19:58:59.9087883 INFO Visa card discount for Liqueur Banana Ramazzotti: 5%
+2025-05-17T19:58:59.9087883 INFO Visa card discount for Chocolate Bar - Smarties: 5%
+2025-05-17T19:58:59.9102979 INFO Visa card discount for Ice Cream - Super Sandwich: 5%
+2025-05-17T19:58:59.9102979 INFO Visa card discount for Bacardi Breezer - Tropical: 5%
+2025-05-17T19:58:59.9102979 INFO Visa card discount for Beef - Montreal Smoked Brisket: 5%
+2025-05-17T19:58:59.9113072 INFO Visa card discount for Cheese - Camembert: 5%
+2025-05-17T19:58:59.9113072 INFO Visa card discount for Creamers - 10%: 5%
+2025-05-17T19:58:59.9123093 INFO Visa card discount for Filter - Coffee: 5%
+2025-05-17T19:58:59.9123093 INFO Visa card discount for Ham - Proscuitto: 5%
+2025-05-17T19:58:59.9123093 INFO Visa card discount for Juice - Apple 341 Ml: 5%
+2025-05-17T19:58:59.9123093 INFO Visa card discount for Magnotta Bel Paese Red: 5%
+2025-05-17T19:58:59.9133075 INFO Visa card discount for Mix Pina Colada: 5%
+2025-05-17T19:58:59.9133075 INFO Visa card discount for Chicken - Whole Roasting: 5%
+2025-05-17T19:58:59.9133075 INFO Visa card discount for Sprouts - Peppercress: 5%
+2025-05-17T19:58:59.9133075 INFO Visa card discount for Butter - Pod: 5%
+2025-05-17T19:58:59.9133075 INFO Visa card discount for Ecolab - Ster Bac: 5%
+2025-05-17T19:58:59.9148162 INFO Visa card discount for Thyme - Dried: 5%
+2025-05-17T19:58:59.9148162 INFO Visa card discount for Coffee - French Vanilla Frothy: 5%
+2025-05-17T19:58:59.9148162 INFO Visa card discount for Sour Puss - Tangerine: 5%
+2025-05-17T19:58:59.9148162 INFO Visa card discount for Passion Fruit: 5%
+2025-05-17T19:58:59.9148162 INFO Visa card discount for Beef - Tenderloin Tails: 5%
+2025-05-17T19:58:59.9148162 INFO Visa card discount for Calypso - Strawberry Lemonade: 5%
+2025-05-17T19:58:59.9148162 INFO Visa card discount for Soupfoamcont12oz 112con: 5%
+2025-05-17T19:58:59.9158249 INFO Visa card discount for Fudge - Cream Fudge: 5%
+2025-05-17T19:58:59.9158249 INFO Visa card discount for Gingerale - Diet - Schweppes: 5%
+2025-05-17T19:58:59.9158249 INFO Visa card discount for Muffin Mix - Carrot: 5%
+2025-05-17T19:58:59.9158249 INFO Visa card discount for Mushroom - Morels Dry: 5%
+2025-05-17T19:58:59.9158249 INFO Visa card discount for Foie Gras: 5%
+2025-05-17T19:58:59.9158249 INFO Visa card discount for Pepperoni Slices: 5%
+2025-05-17T19:58:59.9168262 INFO Visa card discount for Mahi Mahi: 5%
+2025-05-17T19:58:59.9168262 INFO Visa card discount for Mushrooms - Honey: 5%
+2025-05-17T19:58:59.9168262 INFO Visa card discount for Olive - Spread Tapenade: 5%
+2025-05-17T19:58:59.9168262 INFO Visa card discount for Carbonated Water - Raspberry: 5%
+2025-05-17T19:58:59.9168262 INFO Visa card discount for Wine - Segura Viudas Aria Brut: 5%
+2025-05-17T19:58:59.9168262 INFO Visa card discount for Amarula Cream: 5%
+2025-05-17T19:58:59.917826 INFO Visa card discount for Salmon - Atlantic No Skin: 5%
+2025-05-17T19:58:59.917826 INFO Visa card discount for Flower - Commercial Spider: 5%
+2025-05-17T19:58:59.917826 INFO Visa card discount for Capon - Breast Double Wing On: 5%
+2025-05-17T19:58:59.917826 INFO Visa card discount for Smoked Tongue: 5%
+2025-05-17T19:58:59.917826 INFO Visa card discount for Apple - Fuji: 5%
+2025-05-17T19:58:59.917826 INFO Visa card discount for Pork - Bacon Double Smoked: 5%
+2025-05-17T19:58:59.917826 INFO Visa card discount for Island Oasis - Peach Daiquiri: 5%
+2025-05-17T19:58:59.917826 INFO Visa card discount for Soup - Knorr Classic Can. Chili: 5%
+2025-05-17T19:58:59.9188296 INFO Visa card discount for Water - Spring Water 355 Ml: 5%
+2025-05-17T19:58:59.9188296 INFO Visa card discount for Onions - Green: 5%
+2025-05-17T19:58:59.92034 INFO Visa card discount for Snapple Lemon Tea: 5%
+2025-05-17T19:58:59.92034 INFO Visa card discount for Nut - Cashews Whole Raw: 5%
+2025-05-17T19:58:59.92034 INFO Visa card discount for Bread - Triangle White: 5%
+2025-05-17T19:58:59.92034 INFO Visa card discount for Pasta - Rotini Colour Dry: 5%
+2025-05-17T19:58:59.92034 INFO Visa card discount for Beans - Green: 5%
+2025-05-17T19:58:59.9213538 INFO Visa card discount for Bread - Olive Dinner Roll: 5%
+2025-05-17T19:58:59.9213538 INFO Visa card discount for Soup - French Can Pea: 5%
+2025-05-17T19:58:59.9213538 INFO Visa card discount for Jerusalem Artichoke: 5%
+2025-05-17T19:58:59.9213538 INFO Visa card discount for Ocean Spray - Kiwi Strawberry: 5%
+2025-05-17T19:58:59.9213538 INFO Visa card discount for Silicone Parch. 16.3x24.3: 5%
+2025-05-17T19:58:59.9213538 INFO Visa card discount for Coffee Beans - Chocolate: 5%
+2025-05-17T19:58:59.9213538 INFO Visa card discount for Bread - Flat Bread: 5%
+2025-05-17T19:58:59.9223552 INFO Visa card discount for Grenadillo: 5%
+2025-05-17T19:58:59.9223552 INFO Visa card discount for Wine - Sake: 5%
+2025-05-17T19:58:59.9223552 INFO Visa card discount for Chutney Sauce - Mango: 5%
+2025-05-17T19:58:59.9223552 INFO Visa card discount for Wine - Placido Pinot Grigo: 5%
+2025-05-17T19:58:59.9223552 INFO Visa card discount for Pastry - Key Limepoppy Seed Tea: 5%
+2025-05-17T19:58:59.9233565 INFO Visa card discount for Pepper - Julienne Frozen: 5%
+2025-05-17T19:58:59.9233565 INFO Visa card discount for Tomatoes: 5%
+2025-05-17T19:58:59.9233565 INFO Visa card discount for Water - Evian 355 Ml: 5%
+2025-05-17T19:58:59.9233565 INFO Visa card discount for Edible Flower - Mixed: 5%
+2025-05-17T19:58:59.9233565 INFO Visa card discount for Split Peas - Green Dry: 5%
+2025-05-17T19:58:59.9233565 INFO Visa card discount for Pickle - Dill: 5%
+2025-05-17T19:58:59.9233565 INFO Visa card discount for Truffle Cups - Red: 5%
+2025-05-17T19:58:59.9233565 INFO Visa card discount for Juice - Tomato 48 Oz: 5%
+2025-05-17T19:58:59.9233565 INFO Visa card discount for Wine - Red Cabernet Merlot: 5%
+2025-05-17T19:58:59.9233565 INFO Visa card discount for Cheese - Brie Cups 125g: 5%
+2025-05-17T19:58:59.9233565 INFO Visa card discount for Horseradish Root: 5%
+2025-05-17T19:58:59.9248726 INFO Visa card discount for Cumin - Ground: 5%
+2025-05-17T19:58:59.9248726 INFO Visa card discount for Cinnamon Rolls: 5%
+2025-05-17T19:58:59.9248726 INFO Visa card discount for Mahi Mahi: 5%
+2025-05-17T19:58:59.9248726 INFO Visa card discount for Horseradish Root: 5%
+2025-05-17T19:58:59.9248726 INFO Visa card discount for Bread - Sour Batard: 5%
+2025-05-17T19:58:59.9248726 INFO Visa card discount for Sprite Diet - 355ml: 5%
+2025-05-17T19:58:59.925887 INFO Visa card discount for Bag - Regular Kraft 20 Lb: 5%
+2025-05-17T19:58:59.925887 INFO Visa card discount for Wine - Baron De Rothschild: 5%
+2025-05-17T19:58:59.925887 INFO Visa card discount for Juice - Pineapple 341 Ml: 5%
+2025-05-17T19:58:59.925887 INFO Visa card discount for Ice Cream Bar - Oreo Sandwich: 5%
+2025-05-17T19:58:59.9268852 INFO Visa card discount for Creme De Cacao White: 5%
+2025-05-17T19:58:59.9268852 INFO Visa card discount for Wine - White Concha Y Toro: 5%
+2025-05-17T19:58:59.9268852 INFO Visa card discount for Bread - Rye: 5%
+2025-05-17T19:58:59.9268852 INFO Visa card discount for Filter - Coffee: 5%
+2025-05-17T19:58:59.9268852 INFO Visa card discount for Sausage - Chorizo: 5%
+2025-05-17T19:58:59.9278828 INFO Visa card discount for Hinge W Undercut: 5%
+2025-05-17T19:58:59.9278828 INFO Visa card discount for Wine - Fino Tio Pepe Gonzalez: 5%
+2025-05-17T19:58:59.9278828 INFO Visa card discount for Container - Foam Dixie 12 Oz: 5%
+2025-05-17T19:58:59.9278828 INFO Visa card discount for Wine - Vineland Estate Semi - Dry: 5%
+2025-05-17T19:58:59.9278828 INFO Visa card discount for Tomatoes - Yellow Hot House: 5%
+2025-05-17T19:58:59.9278828 INFO Visa card discount for Ice Cream - Turtles Stick Bar: 5%
+2025-05-17T19:58:59.9278828 INFO Visa card discount for Lobster - Canned Premium: 5%
+2025-05-17T19:58:59.928884 INFO Visa card discount for Tomatoes - Heirloom: 5%
+2025-05-17T19:58:59.928884 INFO Visa card discount for Oil - Sunflower: 5%
+2025-05-17T19:58:59.928884 INFO Visa card discount for Mushroom - Shitake Dry: 5%
+2025-05-17T19:58:59.928884 INFO Visa card discount for Wine - Touraine Azay - Le - Rideau: 5%
+2025-05-17T19:58:59.928884 INFO Visa card discount for Nantucket - 518ml: 5%
+2025-05-17T19:58:59.928884 INFO Visa card discount for Chevril: 5%
+2025-05-17T19:58:59.9298849 INFO Visa card discount for Onions - Cippolini: 5%
+2025-05-17T19:58:59.9298849 INFO Visa card discount for Lime Cordial - Roses: 5%
+2025-05-17T19:58:59.9298849 INFO Visa card discount for Muffin Hinge 117n: 5%
+2025-05-17T19:58:59.9298849 INFO Visa card discount for Pork - Ham Virginia: 5%
+2025-05-17T19:58:59.9298849 INFO Visa card discount for Jerusalem Artichoke: 5%
+2025-05-17T19:58:59.9298849 INFO Visa card discount for Wine - Touraine Azay - Le - Rideau: 5%
+2025-05-17T19:58:59.9298849 INFO Visa card discount for Banana - Green: 5%
+2025-05-17T19:58:59.9298849 INFO Visa card discount for Wine - White Ej: 5%
+2025-05-17T19:58:59.9298849 INFO Visa card discount for Beer - Fruli: 5%
+2025-05-17T19:58:59.9310925 INFO Visa card discount for Wine - Casillero Del Diablo: 5%
+2025-05-17T19:58:59.9310925 INFO Visa card discount for Whmis Spray Bottle Graduated: 5%
+2025-05-17T19:58:59.9310925 INFO Visa card discount for Water - Mineral Natural: 5%
+2025-05-17T19:58:59.9310925 INFO Visa card discount for Wine - Tribal Sauvignon: 5%
+2025-05-17T19:58:59.9310925 INFO Visa card discount for Fruit Salad Deluxe: 5%
+2025-05-17T19:58:59.9310925 INFO Visa card discount for Pepper - Paprika Spanish: 5%
+2025-05-17T19:58:59.9310925 INFO Visa card discount for Salmon - Atlantic No Skin: 5%
+2025-05-17T19:58:59.9310925 INFO Visa card discount for Juice - Cranberry 341 Ml: 5%
+2025-05-17T19:58:59.9310925 INFO Visa card discount for Skirt - 29 Foot: 5%
+2025-05-17T19:58:59.9320937 INFO Visa card discount for Cheese - Havarti Roasted Garlic: 5%
+2025-05-17T19:58:59.9320937 INFO Visa card discount for Cheese - Goat: 5%
+2025-05-17T19:58:59.9320937 INFO Visa card discount for Temperature Recording Station: 5%
+2025-05-17T19:58:59.9320937 INFO Visa card discount for Shallots: 5%
+2025-05-17T19:58:59.9320937 INFO Visa card discount for Bar Mix - Lemon: 5%
+2025-05-17T19:58:59.9320937 INFO Visa card discount for Vinegar - Balsamic White: 5%
+2025-05-17T19:58:59.9320937 INFO Visa card discount for Pepper - Chipotle Canned: 5%
+2025-05-17T19:58:59.9320937 INFO Visa card discount for Sauce - Ranch Dressing: 5%
+2025-05-17T19:58:59.9320937 INFO Visa card discount for Milk - Chocolate 250 Ml: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Beef - Kindney Whole: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Wine - Pinot Noir Stoneleigh: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Edible Flower - Mixed: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Bread - Corn Muffaleta Onion: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Ginger - Fresh: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Doilies - 7 Paper: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Juice Peach Nectar: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Crab - Claws Snow 16 - 24: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Soup - French Can Pea: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Pepper - Gypsy Pepper: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Wooden Mop Handle: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Tomatoes - Roma: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Lumpfish Black: 5%
+2025-05-17T19:58:59.9330929 INFO Visa card discount for Lettuce Romaine Chopped: 5%
+2025-05-17T19:58:59.934735 INFO Visa card discount for Crush - Cream Soda: 5%
+2025-05-17T19:58:59.934735 INFO Visa card discount for Sauerkraut: 5%
+2025-05-17T19:58:59.934735 INFO Visa card discount for Cup Translucent 9 Oz: 5%
+2025-05-17T19:58:59.934735 INFO Visa card discount for Cheese - Parmesan Grated: 5%
+2025-05-17T19:58:59.934735 INFO Visa card discount for Pastry - Mini French Pastries: 5%
+2025-05-17T19:58:59.934735 INFO Visa card discount for Cape Capensis - Fillet: 5%
+2025-05-17T19:58:59.9356203 INFO Visa card discount for Pate - Liver: 5%
+2025-05-17T19:58:59.9356203 INFO Visa card discount for Trueblue - Blueberry 12x473ml: 5%
+2025-05-17T19:58:59.9356203 INFO Visa card discount for Wine - German Riesling: 5%
+2025-05-17T19:58:59.9356203 INFO Visa card discount for Straws - Cocktale: 5%
+2025-05-17T19:58:59.9356203 INFO Visa card discount for Rabbit - Frozen: 5%
+2025-05-17T19:58:59.9366173 INFO Visa card discount for Wine - Domaine Boyar Royal: 5%
+2025-05-17T19:58:59.9366173 INFO Visa card discount for Tomatoes - Roma: 5%
+2025-05-17T19:58:59.9366173 INFO Visa card discount for Pork - Loin Bone - In: 5%
+2025-05-17T19:58:59.9366173 INFO Visa card discount for Canadian Emmenthal: 5%
+2025-05-17T19:58:59.9366173 INFO Visa card discount for Langers - Mango Nectar: 5%
+2025-05-17T19:58:59.9366173 INFO Visa card discount for Sour Puss Sour Apple: 5%
+2025-05-17T19:58:59.9366173 INFO Visa card discount for Cheese Cloth No 100: 5%
+2025-05-17T19:58:59.937621 INFO Visa card discount for Bread Base - Italian: 5%
+2025-05-17T19:58:59.937621 INFO Visa card discount for Soup - Campbells Lentil: 5%
+2025-05-17T19:58:59.937621 INFO Visa card discount for Sprouts - Peppercress: 5%
+2025-05-17T19:58:59.937621 INFO Visa card discount for Sambuca Cream: 5%
+2025-05-17T19:58:59.93862 INFO Visa card discount for Rice Paper: 5%
+2025-05-17T19:58:59.93862 INFO Visa card discount for Fruit Salad Deluxe: 5%
+2025-05-17T19:58:59.93862 INFO Visa card discount for Mortadella: 5%
+2025-05-17T19:58:59.93862 INFO Visa card discount for Sausage - Meat: 5%
+2025-05-17T19:58:59.93862 INFO Visa card discount for Wine - Fino Tio Pepe Gonzalez: 5%
+2025-05-17T19:58:59.93862 INFO Visa card discount for Cheese - St. Andre: 5%
+2025-05-17T19:58:59.93862 INFO Visa card discount for Oil - Coconut: 5%
+2025-05-17T19:58:59.93862 INFO Visa card discount for Soup - Campbells Broccoli: 5%
+2025-05-17T19:58:59.93862 INFO Visa card discount for Cranberries - Dry: 5%
+2025-05-17T19:58:59.9401329 INFO Visa card discount for Gherkin: 5%
+2025-05-17T19:58:59.9401329 INFO Visa card discount for Iced Tea Concentrate: 5%
+2025-05-17T19:58:59.9401329 INFO Visa card discount for Sour Puss Raspberry: 5%
+2025-05-17T19:58:59.9401329 INFO Visa card discount for Apple - Fuji: 5%
+2025-05-17T19:58:59.9401329 INFO Visa card discount for Beer - Camerons Cream Ale: 5%
+2025-05-17T19:58:59.9411444 INFO Visa card discount for Yoghurt Tubes: 5%
+2025-05-17T19:58:59.9411444 INFO Visa card discount for Toothpick Frilled: 5%
+2025-05-17T19:58:59.9411444 INFO Visa card discount for Vinegar - Balsamic: 5%
+2025-05-17T19:58:59.9411444 INFO Visa card discount for Canadian Emmenthal: 5%
+2025-05-17T19:58:59.9411444 INFO Visa card discount for Appetizer - Asian Shrimp Roll: 5%
+2025-05-17T19:58:59.9411444 INFO Visa card discount for Rum - Cream Amarula: 5%
+2025-05-17T19:58:59.9421444 INFO Visa card discount for Soup - Campbells Beef Strogonoff: 5%
+2025-05-17T19:58:59.9421444 INFO Visa card discount for Cookie Dough - Peanut Butter: 5%
+2025-05-17T19:58:59.9421444 INFO Visa card discount for Cheese - Le Cheve Noir: 5%
+2025-05-17T19:58:59.9421444 INFO Visa card discount for Seaweed Green Sheets: 5%
+2025-05-17T19:58:59.9421444 INFO Visa card discount for Truffle Paste: 5%
+2025-05-17T19:58:59.9421444 INFO Visa card discount for Mcguinness - Blue Curacao: 5%
+2025-05-17T19:58:59.9421444 INFO Visa card discount for Wine - Magnotta White: 5%
+2025-05-17T19:58:59.9421444 INFO Visa card discount for Rice - 7 Grain Blend: 5%
+2025-05-17T19:58:59.943146 INFO Visa card discount for Oil - Olive Bertolli: 5%
+2025-05-17T19:58:59.943146 INFO Visa card discount for Cheese - Marble: 5%
+2025-05-17T19:58:59.943146 INFO Visa card discount for Maple Syrup: 5%
+2025-05-17T19:58:59.943146 INFO Visa card discount for Sausage - Meat: 5%
+2025-05-17T19:58:59.943146 INFO Visa card discount for Coconut - Whole: 5%
+2025-05-17T19:58:59.943146 INFO Visa card discount for Vinegar - Balsamic: 5%
+2025-05-17T19:58:59.943146 INFO Visa card discount for Wasabi Powder: 5%
+2025-05-17T19:58:59.943146 INFO Visa card discount for Pasta - Cheese / Spinach Bauletti: 5%
+2025-05-17T19:58:59.943146 INFO Visa card discount for Muffin - Zero Transfat: 5%
+2025-05-17T19:58:59.943146 INFO Visa card discount for Arizona - Green Tea: 5%
+2025-05-17T19:58:59.9446602 INFO Visa card discount for Brandy - Orange Mc Guiness: 5%
+2025-05-17T19:58:59.9447143 INFO Visa card discount for Snails - Large Canned: 5%
+2025-05-17T19:58:59.9447143 INFO Visa card discount for Garbag Bags - Black: 5%
+2025-05-17T19:58:59.9447143 INFO Visa card discount for Persimmons: 5%
+2025-05-17T19:58:59.9447143 INFO Visa card discount for Salmon Atl.whole 8 - 10 Lb: 5%
+2025-05-17T19:58:59.9447143 INFO Visa card discount for Soup - Campbells Mushroom: 5%
+2025-05-17T19:58:59.9447143 INFO Visa card discount for Beets: 5%
+2025-05-17T19:58:59.9447143 INFO Visa card discount for Fish - Base Bouillion: 5%
+2025-05-17T19:58:59.9447143 INFO Visa card discount for Bread - Crumbs Bulk: 5%
+2025-05-17T19:58:59.9447143 INFO Visa card discount for Sauce Bbq Smokey: 5%
+2025-05-17T19:58:59.9447143 INFO Visa card discount for Basil - Pesto Sauce: 5%
+2025-05-17T19:58:59.9447143 INFO Visa card discount for Macaroons - Two Bite Choc: 5%
+2025-05-17T19:58:59.9456767 INFO Visa card discount for Plaintain: 5%
+2025-05-17T19:58:59.9456767 INFO Visa card discount for Cookies Almond Hazelnut: 5%
+2025-05-17T19:58:59.9456767 INFO Visa card discount for Pear - Asian: 5%
+2025-05-17T19:58:59.9456767 INFO Visa card discount for Long Island Ice Tea: 5%
+2025-05-17T19:58:59.9456767 INFO Visa card discount for Plate Pie Foil: 5%
+2025-05-17T19:58:59.9456767 INFO Visa card discount for Lettuce - Spring Mix: 5%
+2025-05-17T19:58:59.9456767 INFO Visa card discount for Rosemary - Dry: 5%
+2025-05-17T19:58:59.9456767 INFO Visa card discount for Kahlua: 5%
+2025-05-17T19:58:59.9456767 INFO Visa card discount for Wine - Coteaux Du Tricastin Ac: 5%
+2025-05-17T19:58:59.9466734 INFO Visa card discount for Tomatoes Tear Drop Yellow: 5%
+2025-05-17T19:58:59.9466734 INFO Visa card discount for Yoplait Drink: 5%
+2025-05-17T19:58:59.9466734 INFO Visa card discount for Wine - Magnotta - Cab Franc: 5%
+2025-05-17T19:58:59.9466734 INFO Visa card discount for Veal - Bones: 5%
+2025-05-17T19:58:59.9466734 INFO Visa card discount for Goulash Seasoning: 5%
+2025-05-17T19:58:59.9476728 INFO Visa card discount for Buffalo - Striploin: 5%
+2025-05-17T19:58:59.9476728 INFO Visa card discount for Milk - Chocolate 250 Ml: 5%
+2025-05-17T19:58:59.9476728 INFO Visa card discount for Flower - Leather Leaf Fern: 5%
+2025-05-17T19:58:59.9476728 INFO Visa card discount for Fish - Soup Base Bouillon: 5%
+2025-05-17T19:58:59.9476728 INFO Visa card discount for Silicone Paper 16.5x24: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Red Currants: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Lamb - Shanks: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Coriander - Seed: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Juice - Orange 1.89l: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Chocolate - Chips Compound: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Beef - Sushi Flat Iron Steak: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Cheese - Colby: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Tomatoes - Cherry: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Pastry - Banana Muffin - Mini: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Pork Casing: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Wine - Puligny Montrachet A.: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Soup - Clam Chowder Dry Mix: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Cardamon Ground: 5%
+2025-05-17T19:58:59.9486741 INFO Visa card discount for Island Oasis - Lemonade: 5%
+2025-05-17T19:58:59.9501877 INFO Visa card discount for Coffee Beans - Chocolate: 5%
+2025-05-17T19:58:59.9501877 INFO Visa card discount for Glucose: 5%
+2025-05-17T19:58:59.950342 INFO Visa card discount for Beef - Tongue Cooked: 5%
+2025-05-17T19:58:59.950342 INFO Visa card discount for Table Cloth 62x120 Colour: 5%
+2025-05-17T19:58:59.950342 INFO Visa card discount for Soup - Cream Of Broccoli: 5%
+2025-05-17T19:58:59.950342 INFO Visa card discount for Sambuca - Ramazzotti: 5%
+2025-05-17T19:58:59.950342 INFO Visa card discount for Wine - Kwv Chenin Blanc South: 5%
+2025-05-17T19:58:59.9512004 INFO Visa card discount for Wine - Manischewitz Concord: 5%
+2025-05-17T19:58:59.9512004 INFO Visa card discount for Beef - Bresaola: 5%
+2025-05-17T19:58:59.9512004 INFO Visa card discount for Smoked Paprika: 5%
+2025-05-17T19:58:59.9512004 INFO Visa card discount for Pepper - Chillies Crushed: 5%
+2025-05-17T19:58:59.9512004 INFO Visa card discount for Tea - English Breakfast: 5%
+2025-05-17T19:58:59.9512004 INFO Visa card discount for Mustard - Individual Pkg: 5%
+2025-05-17T19:58:59.9512004 INFO Visa card discount for Dip - Tapenade: 5%
+2025-05-17T19:58:59.9522001 INFO Visa card discount for Horseradish - Prepared: 5%
+2025-05-17T19:58:59.9522001 INFO Visa card discount for Bar Mix - Pina Colada 355 Ml: 5%
+2025-05-17T19:58:59.9522001 INFO Visa card discount for Wine - White Riesling Semi - Dry: 5%
+2025-05-17T19:58:59.9522001 INFO Visa card discount for Chicken - Leg / Back Attach: 5%
+2025-05-17T19:58:59.9522001 INFO Visa card discount for Radish - Pickled: 5%
+2025-05-17T19:58:59.9522001 INFO Visa card discount for Mushroom - Chantrelle Fresh: 5%
+2025-05-17T19:58:59.9522001 INFO Visa card discount for Chicken - White Meat With Tender: 5%
+2025-05-17T19:58:59.9522001 INFO Visa card discount for Wine - Charddonnay Errazuriz: 5%
+2025-05-17T19:58:59.9532002 INFO Visa card discount for Veal - Round Eye Of: 5%
+2025-05-17T19:58:59.9532002 INFO Visa card discount for Veal - Leg: 5%
+2025-05-17T19:58:59.9532002 INFO Visa card discount for Gin - Gilbeys London Dry: 5%
+2025-05-17T19:58:59.9532002 INFO Visa card discount for Creme De Banane - Marie: 5%
+2025-05-17T19:58:59.9547147 INFO Inserting 1000 transactions into database in batches of 1000
+2025-05-17T19:59:00.322462 INFO Finished inserting all transactions
+2025-05-17T19:59:00.3234611 INFO Successfully processed 1000 transactions
+2025-05-17T19:59:00.324972 INFO Database connection closed
+2025-05-17T19:59:00.324972 INFO Application completed successfully
