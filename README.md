@@ -60,7 +60,7 @@ src/main/scala/code/
 ├── models/
 │   ├── TransactionModels.scala  
 ├── services/
-│   ├── TransactionService.scala 
+│   ├── TransactionProcessing.scala 
 │   ├── DatabaseService.scala    
 │   ├── DiscountService.scala    
 │   └── FileService.scala        
@@ -69,3 +69,31 @@ src/main/scala/code/
 └── utils/
     └── LoggerUtils.scala    
 ```
+
+## Database Schema
+The application expects the following table:
+
+```
+CREATE TABLE discounted_transactions (
+  timestamp TIMESTAMP,
+  product_name VARCHAR2(100),
+  expiry_date DATE,
+  quantity NUMBER,
+  unit_price NUMBER(10,2),
+  channel VARCHAR2(20),
+  payment_method VARCHAR2(20),
+  discount NUMBER(5,2),
+  final_price NUMBER(10,2)
+);
+```
+
+Logging
+The application generates detailed logs in `rules_engine.log`:
+```
+2025-05-17T19:58:58.7708005 INFO Starting transaction processing application
+2025-05-17T19:58:58.7746673 INFO Starting transaction processing
+2025-05-17T19:58:59.6603174 INFO Database connection established
+``
+
+
+
