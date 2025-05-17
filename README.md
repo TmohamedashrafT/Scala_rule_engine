@@ -33,7 +33,6 @@ Applies the average of the top two eligible discounts per transaction.
 - **Language**: Scala (Functional Programming)
 - **Build Tool**: sbt
 - **Database**: Oracle (JDBC)
-- **Logging**: java.util.logging with file rotation
 
 ## Getting Started
 
