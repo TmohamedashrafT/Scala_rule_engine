@@ -16,14 +16,14 @@ A high-performance rule engine for applying complex business rules to transactio
 
 ## Rule Catalog
 
-| Rule Type               | Description                                  | Example Application          |
-|-------------------------|----------------------------------------------|------------------------------|
-| `ExpiryBasedRule`       | Progressive discount nearing expiry date     | 29% discount when 1 day left |
-| `CategoryRule`          | Product category-specific discounts         | 10% off all cheeses          |
-| `AnniversaryRule`       | Special date promotions                     | 50% off on March 23rd        |
-| `VolumeRule`            | Bulk purchase discounts                     | 10% off 15+ units            |
-| `ChannelRule`           | Sales channel-specific offers               | Extra 5% for app purchases   |
-| `PaymentMethodRule`     | Payment type incentives                     | 5% discount for Visa cards   |
+| Function Name            | Description                                                                 | Example Application                                                             |
+|--------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| `calculateExpiryDiscount`| Calculates a discount based on how close the product is to expiration.     | A product expiring in 29 days gets 1% off, expiring in 1 day gets 29% off.      |
+| `categoryDiscount`       | Applies a discount for specific product types (cheese or wine).             | "Cheddar Cheese" → 10% discount, "Red Wine" → 5% discount.                      |
+| `march23rdDiscount`      | Applies a special 50% discount for purchases on March 23rd.                 | Any item bought on 23rd March gets 50% off.                                     |
+| `quantityDiscount`       | Applies a bulk discount based on how many units are bought.                 | Buying 12 units → 7% discount, buying 6 units → 5% discount.                    |
+| `channelDiscount`        | Applies a discount for app purchases based on quantity (rounded to 5).     | Buying 7 units through app → 10% discount, 12 units → 15% discount.             |
+| `cardDiscount`           | Applies a 5% discount for purchases made using Visa card.                   | Any product purchased with Visa → 5% discount.                                  |
 
 **Rule Composition Strategy**: 
 Applies the average of the top two eligible discounts per transaction.
