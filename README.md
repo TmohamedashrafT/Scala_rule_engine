@@ -93,7 +93,6 @@ The application generates detailed logs in `rules_engine.log`:
 2025-05-17T19:58:58.7708005 INFO Starting transaction processing application
 2025-05-17T19:58:58.7746673 INFO Starting transaction processing
 2025-05-17T19:58:59.6603174 INFO Database connection established
+2025-05-17T19:58:59.6623348 INFO Reading transactions from D:\iti\Scala_rule_engine\src\main\scala\data\TRX1000.csv
+2025-05-17T19:58:59.6925342 INFO Read 1000 transactions
 ``
-
-
-
