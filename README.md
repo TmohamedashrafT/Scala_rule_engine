@@ -50,6 +50,15 @@ git clone https://github.com/yourusername/scala_rule_engine.git
 cd scala_rule_engine
 ```
 
+### Run the Project
+1. Open a terminal in your project directory.  
+2. Execute:  
+   ```
+   sbt run
+   ```
+
+
+
 
 ## Project Structure: 
 ```
